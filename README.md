@@ -2,6 +2,7 @@
 Exploratory Data Analysis
 
 🔍 Key Steps:
+
 1️⃣ Explored dataset structure with .info(), .describe(), and checked for missing values.
 
 2️⃣ Visualized distributions of numerical variables like Age, Income, and Miles using histograms.
